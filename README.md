@@ -152,3 +152,5 @@ Become a sponsor and get your logo on our website fountainjs.io and on our READM
 [support-url]: https://opencollective.com/fountainjs#support
 [backers-image]: https://opencollective.com/fountainjs/backers.svg
 [sponsors-image]: https://opencollective.com/fountainjs/sponsors.svg
+
+[![Run on Repl.it](https://repl.it/badge/github/iangreer/generator-fountain-webapp)](https://repl.it/github/iangreer/generator-fountain-webapp)
